@@ -22,27 +22,27 @@ Este proyecto forma parte de la cursada de Taller de Lenguajes de Programación 
    cd actividad_tlp3_Selene_Fleita
 3. Crea el  entorno virtual
 
-#### En Windows:
-```bash
-py -m venv env
-```
+   #### En Windows:
+   ```bash
+   py -m venv env
+   ```
 
-#### En Linux/Mac:
-```bash
-python3 -m venv env
-```
+   #### En Linux/Mac:
+   ```bash
+   python3 -m venv env
+   ```
 
 4. Activar el entorno virtual
 
-#### En Windows:
-```bash
-.\env\Scripts\activate
-```
+   #### En Windows:
+   ```bash
+   .\env\Scripts\activate
+   ```
 
-#### En Linux/Mac:
-```bash
-source env/bin/activate
-```
+   #### En Linux/Mac:
+   ```bash
+   source env/bin/activate
+   ```
    
 5. Instala la dependencia:
    ```bash
